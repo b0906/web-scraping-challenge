@@ -23,6 +23,6 @@ Screenshots of the final application
 
 ![image3 !](Images/Screen Shot 2022-09-25 at 1.59.01 PM.png)
 
-![image4 !](Images/Screen%20Shot%202022-09-17%20at%2011.04.45%20PM.png)
+
 
 ![image5 !](Images/Screen%20Shot%202022-09-22%20at%209.38.12%20PM.png)
