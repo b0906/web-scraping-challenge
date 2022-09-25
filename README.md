@@ -17,11 +17,11 @@ Visit the USGS Astrogeology site to obtain high resolution images for each of Ma
 # Step 2 - MongoDB and Flask Application
 Screenshots of the final application
 
-![image1 !](Images/Screen%20Shot%202022-09-17%20at%2010.58.08%20PM.png)
+![image1 !](Images/Screen Shot 2022-09-25 at 1.58.25 PM.png)
 
-![image2 !](Images/Screen%20Shot%202022-09-17%20at%2010.59.02%20PM.png)
+![image2 !](Images/Screen Shot 2022-09-25 at 1.58.46 PM.png)
 
-![image3 !](Images/Screen%20Shot%202022-09-17%20at%2010.59.55%20PM.png)
+![image3 !](Images/Screen Shot 2022-09-25 at 1.59.01 PM.png)
 
 ![image4 !](Images/Screen%20Shot%202022-09-17%20at%2011.04.45%20PM.png)
 
