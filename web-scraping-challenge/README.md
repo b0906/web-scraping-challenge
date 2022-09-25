@@ -19,8 +19,8 @@ Screenshots of the final application
 
 ![image1 !](Images/Screen%20Shot%202022-09-22%20at%209.38.12%20PM.png)
 
-![image2 !](Images/Screen Shot 2022-09-25 at 1.58.25 PM)
+![image2 !](web-scraping-challenge/Images/Screen Shot 2022-09-25 at 1.58.25 PM.png)
 
-![image3 !](Images/Screen Shot 2022-09-25 at 1.58.46 PM)
+![image3 !](web-scraping-challenge/Images/Screen Shot 2022-09-25 at 1.58.46 PM.png)
 
-![image4 !](Images/Screen Shot 2022-09-25 at 1.59.01 PM)
+![image4 !](web-scraping-challenge/Images/Screen Shot 2022-09-25 at 1.59.01 PM.png)
